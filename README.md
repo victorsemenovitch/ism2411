@@ -20,6 +20,14 @@ Run `python week07/functions.py`
 ## Reflection
 
 ### 1. Commit History
+```text
+ec83412 Revise README with course and project information
+fb4334d Implement exercises for tax and discount calculations
+a2ec4ab Clean up functions.py and add repository details
+16a3ba8 Add files via upload
+afea8a6 Add .gitignore file for Python and IDE files
+2dc496b Initial commit
+```
 
 My commits show that I worked on different parts separately and kept my work organized.
 
